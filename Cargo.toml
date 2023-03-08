@@ -1,0 +1,5 @@
+[workspace]
+members = [
+    "rustypop",
+    "nano_rust",
+]

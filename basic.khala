@@ -1,0 +1,6 @@
+func main() {
+	let weight = 1
+	print(weight)
+	let length = 2
+	print(length)
+}
